@@ -4,6 +4,7 @@
 
 - 🕸️  HTML and CSS - Web site basic.
 - 🅰️  Angular - Web application.
+- 🔙  NODE JS, Express.
 - 🏗️  Threejs - Framework to make 3D in web.
 - 🌐  Solidity -  Language to interact with blockchain.
 
