@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @0xCesar
-- 💼 I'm a freelance full-stack developer.
+- 💼 I'm a freelance front developper.
 - 👷‍♂️ I’m looking for work on 3D website design, and solidity dev post.
 
 - 🕸️  HTML and CSS - Web site basic.
