@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0xCesar
+- 👋 Hi, I’m Cesar
 - 💼 I'm a freelance front end developper.
 
 
