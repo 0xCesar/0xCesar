@@ -1,11 +1,11 @@
-- 👋 Hi, I’m Cesar
+- 👋 Hi, I’m Cesar from Nantes.
 - 💼 I'm a freelance front end developper.
 
 
-- 🕸️  HTML and CSS - Web site basic.
-- 🖥️  React, Angular - Web application.
-- 🔙  NODE JS, Express.
-- 🏗️  Threejs, Webgl, gsap
+- 🕸️  Basics : HTML, CSS, and JS
+- 🖥️  Framework : React, Angular.
+- 🔙  Backend : NODE JS, Express.
+- 🏗️  3D and animation effect : Threejs, Webgl, gsap, R3F.
 - 
 - 📫 Contact me at uicesarfox@gmail.com
 <!---
